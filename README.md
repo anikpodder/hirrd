@@ -7,11 +7,11 @@ A dynamic and responsive web application that allows users to search for jobs, a
 ## 🚀 Features
 
 - **User Authentication**: Secure registration, login, and protected routes for personalized experiences.
+- **Job Posting**: Employers can post job openings and manage job listings.
 - **Job Listings**: Browse various job opportunities with real-time updates.
 - **Job Applications**: Apply to jobs directly through the platform and track application statuses.
 - **Search & Filter**: Efficiently search and filter jobs based on keywords, categories, or companies.
 - **Save/Unsave Jobs**: Bookmark jobs to revisit them later.
-- **Job Posting**: Employers can post job openings and manage job listings.
 
 ---
 
