@@ -1,0 +1,64 @@
+[
+  {
+    "name": "welldev",
+    "path": "/companies/WellDev Logo.png",
+    "id": 1
+  },
+
+  {
+    "name": "enosis",
+    "path": "/companies/enosis-logo.png",
+    "id": 2
+  },
+  {
+    "name": "bs23",
+    "path": "/companies/bs23_logo.webp",
+    "id": 3
+  },
+  {
+    "name": "kites_games_studio",
+    "path": "/companies/kites_games_studio.svg",
+    "id": 4
+  },
+  {
+    "name": "3s_software_solution",
+    "path": "/companies/3ssoftwaresolution.png",
+    "id": 5
+  },
+  {
+    "name": "therap-bd",
+    "path": "/companies/therap-bd-logo-230225-rgb.webp",
+    "id": 6
+  },
+  {
+    "name": "samsung",
+    "path": "/companies/samsung.png",
+    "id": 7
+  },
+  {
+    "name": "reve_systems",
+    "path": "/companies/REVE-web-logo.png",
+    "id": 8
+  },
+  {
+    "name": "appscode",
+    "path": "/companies/appscode.svg",
+    "id": 9
+  },
+  {
+    "name": "cefalo",
+    "path": "/companies/cefalo.svg",
+    "id": 10
+  },
+  {
+    "name": "selise",
+    "path": "/companies/selise.png",
+    "id": 11
+  },
+
+  {
+    "name": "dsi",
+    "path": "/companies/dsi_logo.svg",
+    "id": 12
+  }
+]
